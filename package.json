@@ -20,11 +20,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
-  "jest": {
-    "collectCoverageFrom": [
-      "src/**/*.js"
-    ]
-  },
   "browserslist": {
     "development": [
       "last 2 chrome versions",
